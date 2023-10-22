@@ -1,0 +1,22 @@
+.forecast-day {
+    text-align: center;
+    color: rgb(250, 242, 242);
+    font-size: 20px;
+    font-weight: 350;
+    height: 15px;
+    line-height: 15px;
+    white-space: nowrap;
+  }
+  
+  .forecast-icon {
+    margin: 10px 0 0;
+    text-align: center;
+  }
+  
+  .forecast-temperature {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 15px;
+  }
